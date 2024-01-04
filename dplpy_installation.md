@@ -2,7 +2,7 @@
 
 ## Index
 
-- [Step-by-step walkthough]([#a-walkthrough-installation-of-python-dplpy-and-jupyter-notebooks))
+- [Step-by-step walkthough]([#a-walkthrough-installation-of-python-dplpy-and-jupyter-notebooks)
 - [Summary](#setup-commands-summary)
 - [Integrated Development Environments](#integrated-development-environments)
  
