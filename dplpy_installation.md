@@ -5,7 +5,7 @@ This document is going to cover the essential prerequisites setup for the enviro
 
 **Required software:**
 
-- Python!  We recommend using Anaconda ([https](https://anaconda.org/)[://](https://anaconda.org/)[anaconda](https://anaconda.org/)[.](https://anaconda.org/)[org](https://anaconda.org/)[/](https://anaconda.org/)): a package management software primarily for Python. Here, we are going to be using [Miniconda](https://docs.conda.io/projects/miniconda/en/latest/), which is a minimal installer that allows users to more selectively install only the packages they need. We *do not* recommend using Homebrew if you are on macOS.
+- Python!  We recommend using Anaconda ([https://anaconda.org/](https://anaconda.org/): a package management software primarily for Python. Here, we are going to be using [Miniconda](https://docs.conda.io/projects/miniconda/en/latest/), which is a minimal installer that allows users to more selectively install only the packages they need. We *do not* recommend using Homebrew if you are on macOS.
 - Pip ([https://pip.pypa.io/en/stable/](https://pip.pypa.io/en/stable/)) is the default package installer for Python, enabling users to easily download and install additional packages from the ‘Python Package Index’ ([PyPI](https://pypi.org/)). Pip will be installed automatically when you install Miniconda. 
 - Jupyter ([https://jupyter.org/](https://jupyter.org/)): an open-source platform that facilitates interactive computing by providing a web-based interface for creating and sharing documents containing live code. Jupyter is installed with Anaconda, but will need to be added to Miniconda (see below). 
 
