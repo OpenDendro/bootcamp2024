@@ -2,9 +2,9 @@
 
 ## Index
 
-- [Step-by-step walkthough](#issues)
-- [Requirements](#requirements)
-- [Building Environment](#building-environment)
+- [Step-by-step walkthough]([#a-walkthrough-installation-of-python-dplpy-and-jupyter-notebooks))
+- [Summary](#setup-commands-summary)
+- [Integrated Development Environments](#integrated-development-environments)
  
 ## A walkthrough installation of Python, dplPy, and Jupyter Notebooks
 
