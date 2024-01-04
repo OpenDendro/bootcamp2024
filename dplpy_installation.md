@@ -101,10 +101,7 @@ There might be an issue where if Jupyter isn’t able to automatically recognize
 1. Install ipykernel: `pip install ipykernel`
 1. Make kernel discoverable by Jupyter: `python -m ipykernel install --user --name dplpy --display-name "dplpy"`
 
-
-
-
-**Setup Commands Summary**
+## Setup Commands Summary
 
 1. Install conda using the correct installation release for your software from [https](https://docs.conda.io/projects/miniconda/en/latest/)[://](https://docs.conda.io/projects/miniconda/en/latest/)[docs](https://docs.conda.io/projects/miniconda/en/latest/)[.](https://docs.conda.io/projects/miniconda/en/latest/)[conda](https://docs.conda.io/projects/miniconda/en/latest/)[.](https://docs.conda.io/projects/miniconda/en/latest/)[io](https://docs.conda.io/projects/miniconda/en/latest/)[/](https://docs.conda.io/projects/miniconda/en/latest/)[projects](https://docs.conda.io/projects/miniconda/en/latest/)[/](https://docs.conda.io/projects/miniconda/en/latest/)[miniconda](https://docs.conda.io/projects/miniconda/en/latest/)[/](https://docs.conda.io/projects/miniconda/en/latest/)[en](https://docs.conda.io/projects/miniconda/en/latest/)[/](https://docs.conda.io/projects/miniconda/en/latest/)[latest](https://docs.conda.io/projects/miniconda/en/latest/)[/](https://docs.conda.io/projects/miniconda/en/latest/)
 1. Create a new environment: `conda create --name dplpy python=3.11`
@@ -117,7 +114,7 @@ There might be an issue where if Jupyter isn’t able to automatically recognize
       1. Make kernel discoverable by Jupyter: `python -m ipykernel install --user --name dplpy --display-name "dplpy"`
 
 
-**Integrated Development Environments**
+## Integrated Development Environments
 
 While Jupyter notebooks can be used locally via your web browser, there are several Integrated Development Environments (IDEs) that are popular as well.  Unlike R (R Studio) and MATLAB, there is no signal IDE for Python, but during the Bootcamp several of the instructors will be using [Virtual Studio Code (VS Code](https://code.visualstudio.com/)[://](https://code.visualstudio.com/)
 
