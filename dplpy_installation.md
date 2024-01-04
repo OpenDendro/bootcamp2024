@@ -2,7 +2,7 @@
 
 ## Index
 
-- [Step-by-step walkthough]([#a-complete-walkthrough-installation )
+- [Step-by-step walkthough](#a-complete-walkthrough-installation)
 - [Summary](#setup-commands-summary)
 - [Integrated Development Environments](#integrated-development-environments)
  
