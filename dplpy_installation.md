@@ -5,9 +5,9 @@ This document is going to cover the essential prerequisites setup for the enviro
 
 **Required software:**
 
-- Python!  We recommend using Anaconda ([https://anaconda.org/](https://anaconda.org/): a package management software primarily for Python. Here, we are going to be using [Miniconda](https://docs.conda.io/projects/miniconda/en/latest/), which is a minimal installer that allows users to more selectively install only the packages they need. We *do not* recommend using Homebrew if you are on macOS.
-- Pip ([https://pip.pypa.io/en/stable/](https://pip.pypa.io/en/stable/)) is the default package installer for Python, enabling users to easily download and install additional packages from the ‘Python Package Index’ ([PyPI](https://pypi.org/)). Pip will be installed automatically when you install Miniconda. 
-- Jupyter ([https://jupyter.org/](https://jupyter.org/)): an open-source platform that facilitates interactive computing by providing a web-based interface for creating and sharing documents containing live code. Jupyter is installed with Anaconda, but will need to be added to Miniconda (see below). 
+- Python!  We recommend using [Anaconda](https://anaconda.org/): a package management software primarily for Python. Here, we are going to be using [Miniconda](https://docs.conda.io/projects/miniconda/en/latest/), which is a minimal installer that allows users to more selectively install only the packages they need. We *do not* recommend using Homebrew if you are on macOS.
+- [Pip](https://pip.pypa.io/en/stable/) is the default package installer for Python, enabling users to easily download and install additional packages from the ‘Python Package Index’ ([PyPI](https://pypi.org/)). Pip will be installed automatically when you install Miniconda. 
+- [Jupyter](https://jupyter.org/): an open-source platform that facilitates interactive computing by providing a web-based interface for creating and sharing documents containing live code. Jupyter is installed with Anaconda, but will need to be added to Miniconda (see below). 
 
 These software packages are used (together) in order to ensure that packages and code shared between collaborators are up to date and usable across Operating Systems (OS).
 
@@ -28,7 +28,7 @@ Notes:
 - Mac users: downloading either the bash or pkg versions should yield the same result, Downloading the pkg will allow you to install conda by clicking through an installer, whilst downloading the bash version will require you to execute the downloaded script.
 - Windows users: downloading the Miniconda installer will result in a command prompt named “Anaconda”. This is where you will be able to access all of your conda installations. Packages installed through the conda command prompt are **NOT** available in PowerShell and/or other installed shells (e.g., git shell).
 - [https://docs.anaconda.com/free/anaconda/getting-started/](https://docs.anaconda.com/free/anaconda/getting-started/) is a great starting point for learning about conda!
-- Conda is used exclusively through the command line, therefore you should be comfortable using the shell (or the terminal in macOS). The Carpentries offer an Open Source tutorial on using the shell: [https](https://swcarpentry.github.io/shell-novice/)[://](https://swcarpentry.github.io/shell-novice/)[swcarpentry](https://swcarpentry.github.io/shell-novice/)[.](https://swcarpentry.github.io/shell-novice/)[github](https://swcarpentry.github.io/shell-novice/)[.](https://swcarpentry.github.io/shell-novice/)[io](https://swcarpentry.github.io/shell-novice/)[/](https://swcarpentry.github.io/shell-novice/)[shell](https://swcarpentry.github.io/shell-novice/)[-](https://swcarpentry.github.io/shell-novice/)[novice](https://swcarpentry.github.io/shell-novice/)[/](https://swcarpentry.github.io/shell-novice/)
+- Conda is used exclusively through the command line, therefore you should be comfortable using the shell (or the terminal in macOS). The Carpentries offer [an Open Source tutorial on using the shell](https://swcarpentry.github.io/shell-novice/)
 
 Once installed, access your terminal (for Windows users search ‘Anaconda Prompt’). You can check your install by typing ‘conda list’, which will reveal the location of your conda and the packages that are currently installed with it. 
 
