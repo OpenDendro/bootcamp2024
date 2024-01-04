@@ -30,7 +30,7 @@ Notes:
 - [https://docs.anaconda.com/free/anaconda/getting-started/](https://docs.anaconda.com/free/anaconda/getting-started/) is a great starting point for learning about conda!
 - Conda is used exclusively through the command line, therefore you should be comfortable using the shell (or the terminal in macOS). The Carpentries offer [an Open Source tutorial on using the shell](https://swcarpentry.github.io/shell-novice/)
 
-Once installed, access your terminal (for Windows users search ‘Anaconda Prompt’). You can check your install by typing ‘conda list’, which will reveal the location of your conda and the packages that are currently installed with it. 
+Once installed, access your terminal (for Windows users search '`Anaconda Prompt`’). You can check your install by typing ‘conda list’, which will reveal the location of your conda and the packages that are currently installed with it. 
 
 **Understanding conda**
 
