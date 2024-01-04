@@ -2,11 +2,11 @@
 
 ## Index
 
-- [Step-by-step walkthough]([#a-walkthrough-installation-of-python-dplpy-and-jupyter-notebooks)
+- [Step-by-step walkthough]([#a-complete-walkthrough-installation )
 - [Summary](#setup-commands-summary)
 - [Integrated Development Environments](#integrated-development-environments)
  
-## A walkthrough installation of Python, dplPy, and Jupyter Notebooks
+## A complete walkthrough installation 
 
 This document is going to cover the essential prerequisites setup for the environment required by dplPy.
 
