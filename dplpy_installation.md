@@ -1,4 +1,4 @@
-# Getting started with Python and dplPy
+# Getting started with Python, dplPy, and Jupyter Notebooks
 
 ## Index
 
