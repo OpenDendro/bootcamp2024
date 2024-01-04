@@ -1,5 +1,5 @@
 ﻿
-* Getting started with Python and dplPy *
+*Getting started with Python and dplPy*
 
 This document is going to cover the essential prerequisites setup for the environment required by dplPy.
 
