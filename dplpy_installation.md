@@ -21,7 +21,7 @@ macOS does come with a preinstalled version of Python (although typically laggin
 
 **Installing via Miniconda and Setting Up Your Environment**
 
-In order to set up your own environment, you will need to download Miniconda according to your OS. Please go to the following page and download and execute the correct file for your OS: [https](https://docs.conda.io/projects/miniconda/en/latest/)[://](https://docs.conda.io/projects/miniconda/en/latest/)[docs](https://docs.conda.io/projects/miniconda/en/latest/)[.](https://docs.conda.io/projects/miniconda/en/latest/)[conda](https://docs.conda.io/projects/miniconda/en/latest/)[.](https://docs.conda.io/projects/miniconda/en/latest/)[io](https://docs.conda.io/projects/miniconda/en/latest/)[/](https://docs.conda.io/projects/miniconda/en/latest/)[projects](https://docs.conda.io/projects/miniconda/en/latest/)[/](https://docs.conda.io/projects/miniconda/en/latest/)[miniconda](https://docs.conda.io/projects/miniconda/en/latest/)[/](https://docs.conda.io/projects/miniconda/en/latest/)[en](https://docs.conda.io/projects/miniconda/en/latest/)[/](https://docs.conda.io/projects/miniconda/en/latest/)[latest](https://docs.conda.io/projects/miniconda/en/latest/)[/](https://docs.conda.io/projects/miniconda/en/latest/)
+In order to set up your own environment, you will need to download Miniconda according to your OS. Please go to the following page and download and execute the correct file for your OS: [https://docs.conda.io/projects/miniconda/en/latest/](https://docs.conda.io/projects/miniconda/en/latest/)
 
 Notes:
 
