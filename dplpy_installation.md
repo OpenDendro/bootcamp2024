@@ -1,5 +1,12 @@
-﻿
-## Getting started with Python and dplPy
+# Getting started with Python and dplPy
+
+## Index
+
+- [Step-by-step walkthough](#issues)
+- [Requirements](#requirements)
+- [Building Environment](#building-environment)
+ 
+## A walkthrough installation of Python, dplPy, and Jupyter Notebooks
 
 This document is going to cover the essential prerequisites setup for the environment required by dplPy.
 
